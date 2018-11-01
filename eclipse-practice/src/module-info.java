@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author joda
+ *
+ */
+module testModule {
+}

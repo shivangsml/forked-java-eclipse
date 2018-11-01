@@ -1,0 +1,13 @@
+package tutorial1;
+
+public class Application {
+	
+	public static void main(String[] args) {
+		int num;
+		
+		num = 77; 
+		
+		System.out.println(num);
+	}
+ 
+ }
