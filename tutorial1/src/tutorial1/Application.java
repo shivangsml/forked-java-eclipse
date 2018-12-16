@@ -1,7 +1,7 @@
 package tutorial1;
 
 public class Application {
-	
+	//change
 	public static void main(String[] args) {
 		// whole number, no decimals
 		int num = 88;
